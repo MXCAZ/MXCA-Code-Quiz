@@ -6,7 +6,7 @@ This project was designed as a challenge for University of Utah coding boot camp
 it is a quiz application using HTML, CSS and Javascript. This challenge has been deployed to github pages. To get this project up and running you can follow the deployed link the sources files to use this application.
 
 
-
+https://mxcaz.github.io/MXCA-Code-Quiz/index.html
 https://github.com/MXCAZ/MXCA-Code-Quiz
 
 
